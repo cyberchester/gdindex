@@ -1,7 +1,7 @@
 {
-  "name": "gdrive-index",
-  "description": "A index server for google drive",
-  "keywords": ["gdrive", "google", "drive", "index", "server", "heroku"],
-  "repository": "https://github.com/patheticGeek/gdrive-index",
+  "name": "mvf-gdindex",
+  "description": "",
+  "keywords": ["mvf"],
+  "repository": "https://github.com/cyberchester/gdindex",
   "builpacks": [{ "url": "heroku/nodejs" }]
 }
